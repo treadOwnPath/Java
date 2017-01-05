@@ -8,7 +8,7 @@
 ////Hello, my name is [full name].
 ////There are [number] letters in my name.
 //Use String concatenation to create the first String to print using the fullName variable, and
-//use the .length() command on firstName and lastName to calculate the number of letters.
+//use the .length() command on firstName and lastName to calculate the number of letters
 //
 
 package com.company;
