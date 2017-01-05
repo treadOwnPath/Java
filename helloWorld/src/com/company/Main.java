@@ -1,4 +1,4 @@
-//Intent => print "Hello World" in Java
+//Intent => print "Hello World" in Java.
 
 package com.company;
 
